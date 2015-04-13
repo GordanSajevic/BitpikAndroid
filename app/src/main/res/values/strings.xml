@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bitpik</string>
+
+    <string name="label_username">Korisnicko ime :</string>
+    <string name="label_password">Sifra :</string>
+    <string name="username_hint">Upisite korisnicko ime</string>
+    <string name="password_hint">Upisite vasu sifru</string>
+
+    <string name="button_login_label">Login</string>
+
+    <string name="seller_default_username">seller</string>
+    <string name="seller_default_password">seller</string>
+    <string name="buyer_default_username">buyer</string>
+    <string name="buyer_default_password">buyer</string>
+    <string name="admin_default_username">admin</string>
+    <string name="admin_default_password">admin</string>
+
+    <string name="user_username_key">ba.bitcamp.project.bitpik.user_username</string>
+    <string name="user_password_key">ba.bitcamp.project.bitpik.user_password</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Necko\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="C:\Users\Necko\Documents\Bitpikandroid\vjezbe_android\Bitpik\app\build\intermediates\pre-dexed\debug\okio-1.3.0-31276cb307dd51299cc40ea6b297c109057a4282.jar" />
+    </item>
+    <item
+        jar="C:\Users\Necko\Documents\Bitpikandroid\vjezbe_android\Bitpik\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Necko\Documents\Bitpikandroid\vjezbe_android\Bitpik\app\build\intermediates\pre-dexed\debug\classes-ddb9a2430d93ab304f386d5405248d8627d12511.jar" />
+    </item>
+    <item
+        jar="C:\Users\Necko\Documents\Bitpikandroid\vjezbe_android\Bitpik\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Necko\Documents\Bitpikandroid\vjezbe_android\Bitpik\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-28992a39a076ad23de5076de940abf7ef116df87.jar" />
+    </item>
+    <item
+        jar="C:\Users\Necko\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\Users\Necko\Documents\Bitpikandroid\vjezbe_android\Bitpik\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0-8a6b0bbb39416aba9274f3367067e266a12266a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Necko\Documents\Bitpikandroid\vjezbe_android\Bitpik\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Necko\Documents\Bitpikandroid\vjezbe_android\Bitpik\app\build\intermediates\pre-dexed\debug\classes-66ae35cdbe7b594ca222013aec1adb632ce4c1d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Necko\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Necko\Documents\Bitpikandroid\vjezbe_android\Bitpik\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-8ebab4bc7aa17ba3926e3c9027c94bf928017502.jar" />
+    </item>
+
+</items>
