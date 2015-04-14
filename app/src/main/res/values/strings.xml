@@ -8,6 +8,7 @@
     <!-- hints -->
     <string name="username_hint">Upisite korisnicko ime</string>
     <string name="password_hint">Upisite vasu sifru</string>
+    <string name="filter_hint">Pretraga</string>
 
     <!-- buttons -->
     <string name="button_login_label">Login</string>

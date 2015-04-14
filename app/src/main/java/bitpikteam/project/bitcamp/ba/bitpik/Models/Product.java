@@ -10,18 +10,24 @@ public class Product {
     private double price;
     private boolean isSold;
     private boolean isSpecial;
+    private String productImagePath;
 
     public Product() {
 
     }
 
-    public Product(int id, String name, String description, double price, boolean isSold, boolean isSpecial) {
+    public Product(int id, String name, String description, double price, boolean isSold, boolean isSpecial, String productImagePath) {
         this.id = id;
         this.name = name;
         this.description = description;
         this.price = price;
         this.isSold = isSold;
         this.isSpecial = isSpecial;
+        this.productImagePath = productImagePath;
+    }
+
+    public String toString() {
+        return name + "       \n      " + String.valueOf(price);
     }
 
     public int getId() {
@@ -70,6 +76,14 @@ public class Product {
 
     public void setSpecial(boolean isSpecial) {
         this.isSpecial = isSpecial;
+    }
+
+    public String getProductImagePath() {
+        return productImagePath;
+    }
+
+    public void setProductImagePath(String productImagePath) {
+        this.productImagePath = productImagePath;
     }
 
 }
