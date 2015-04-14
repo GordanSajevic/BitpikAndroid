@@ -50,25 +50,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Activities/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="2625">
-              <caret line="105" column="45" selection-start-line="105" selection-start-column="45" selection-end-line="105" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.59165156" vertical-offset="739" max-vertical-offset="3315">
+              <caret line="71" column="50" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#1570#1607#0" expanded="true" />
                 <element signature="e#1688#1725#0" expanded="true" />
                 <element signature="e#2209#2587#0" expanded="true" />
                 <element signature="e#2576#2577#0" expanded="true" />
-                <element signature="e#2655#2687#0" expanded="true" />
-                <element signature="e#2715#2748#0" expanded="true" />
-                <element signature="e#3290#3314#0" expanded="true" />
-                <element signature="e#4315#4345#0" expanded="true" />
-                <element signature="e#4670#4694#0" expanded="true" />
-                <element signature="e#5276#5313#0" expanded="true" />
-                <element signature="e#5367#5404#0" expanded="true" />
-                <element signature="e#6124#6307#0" expanded="true" />
-                <element signature="e#6296#6297#0" expanded="true" />
+                <element signature="e#2849#2881#0" expanded="true" />
+                <element signature="e#2909#2942#0" expanded="true" />
+                <element signature="e#3551#3575#0" expanded="true" />
+                <element signature="e#4847#4877#0" expanded="true" />
+                <element signature="e#5682#5719#0" expanded="true" />
+                <element signature="e#5773#5810#0" expanded="true" />
+                <element signature="e#6530#6713#0" expanded="true" />
+                <element signature="e#6702#6703#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,10 +87,10 @@
       <file leaf-file-name="IndexPage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Activities/IndexPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/service_urls.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -156,11 +156,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserData.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="UserData.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/singletons/UserData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.92558986" vertical-offset="0" max-vertical-offset="1260">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1260">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#443#444#0" expanded="true" />
@@ -191,9 +191,11 @@
       <file leaf-file-name="ServiceRequests.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Services/ServiceRequests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="720">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
               <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -985,12 +987,12 @@
         <option value="$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/IndexPage.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_index_page.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/service_urls.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Activities/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Services/ServiceRequests.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/singletons/UserData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/service_urls.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Activities/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1484,19 +1486,19 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="2220">
           <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1570#1607#0" expanded="true" />
             <element signature="e#1688#1725#0" expanded="true" />
             <element signature="e#2209#2587#0" expanded="true" />
             <element signature="e#2576#2577#0" expanded="true" />
-            <element signature="e#2655#2687#0" expanded="true" />
-            <element signature="e#2715#2748#0" expanded="true" />
-            <element signature="e#3290#3314#0" expanded="true" />
-            <element signature="e#4315#4345#0" expanded="true" />
-            <element signature="e#4670#4694#0" expanded="true" />
-            <element signature="e#5276#5313#0" expanded="true" />
-            <element signature="e#5367#5404#0" expanded="true" />
-            <element signature="e#6124#6307#0" expanded="true" />
-            <element signature="e#6296#6297#0" expanded="true" />
+            <element signature="e#2849#2881#0" expanded="true" />
+            <element signature="e#2909#2942#0" expanded="true" />
+            <element signature="e#3551#3575#0" expanded="true" />
+            <element signature="e#4847#4877#0" expanded="true" />
+            <element signature="e#5682#5719#0" expanded="true" />
+            <element signature="e#5773#5810#0" expanded="true" />
+            <element signature="e#6530#6713#0" expanded="true" />
+            <element signature="e#6702#6703#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1547,19 +1549,19 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2227">
           <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1570#1607#0" expanded="true" />
             <element signature="e#1688#1725#0" expanded="true" />
             <element signature="e#2209#2587#0" expanded="true" />
             <element signature="e#2576#2577#0" expanded="true" />
-            <element signature="e#2655#2687#0" expanded="true" />
-            <element signature="e#2715#2748#0" expanded="true" />
-            <element signature="e#3290#3314#0" expanded="true" />
-            <element signature="e#4315#4345#0" expanded="true" />
-            <element signature="e#4670#4694#0" expanded="true" />
-            <element signature="e#5276#5313#0" expanded="true" />
-            <element signature="e#5367#5404#0" expanded="true" />
-            <element signature="e#6124#6307#0" expanded="true" />
-            <element signature="e#6296#6297#0" expanded="true" />
+            <element signature="e#2849#2881#0" expanded="true" />
+            <element signature="e#2909#2942#0" expanded="true" />
+            <element signature="e#3551#3575#0" expanded="true" />
+            <element signature="e#4847#4877#0" expanded="true" />
+            <element signature="e#5682#5719#0" expanded="true" />
+            <element signature="e#5773#5810#0" expanded="true" />
+            <element signature="e#6530#6713#0" expanded="true" />
+            <element signature="e#6702#6703#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1610,19 +1612,19 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2227">
           <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1570#1607#0" expanded="true" />
             <element signature="e#1688#1725#0" expanded="true" />
             <element signature="e#2209#2587#0" expanded="true" />
             <element signature="e#2576#2577#0" expanded="true" />
-            <element signature="e#2655#2687#0" expanded="true" />
-            <element signature="e#2715#2748#0" expanded="true" />
-            <element signature="e#3290#3314#0" expanded="true" />
-            <element signature="e#4315#4345#0" expanded="true" />
-            <element signature="e#4670#4694#0" expanded="true" />
-            <element signature="e#5276#5313#0" expanded="true" />
-            <element signature="e#5367#5404#0" expanded="true" />
-            <element signature="e#6124#6307#0" expanded="true" />
-            <element signature="e#6296#6297#0" expanded="true" />
+            <element signature="e#2849#2881#0" expanded="true" />
+            <element signature="e#2909#2942#0" expanded="true" />
+            <element signature="e#3551#3575#0" expanded="true" />
+            <element signature="e#4847#4877#0" expanded="true" />
+            <element signature="e#5682#5719#0" expanded="true" />
+            <element signature="e#5773#5810#0" expanded="true" />
+            <element signature="e#6530#6713#0" expanded="true" />
+            <element signature="e#6702#6703#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1673,19 +1675,19 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2516">
           <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1570#1607#0" expanded="true" />
             <element signature="e#1688#1725#0" expanded="true" />
             <element signature="e#2209#2587#0" expanded="true" />
             <element signature="e#2576#2577#0" expanded="true" />
-            <element signature="e#2655#2687#0" expanded="true" />
-            <element signature="e#2715#2748#0" expanded="true" />
-            <element signature="e#3290#3314#0" expanded="true" />
-            <element signature="e#4315#4345#0" expanded="true" />
-            <element signature="e#4670#4694#0" expanded="true" />
-            <element signature="e#5276#5313#0" expanded="true" />
-            <element signature="e#5367#5404#0" expanded="true" />
-            <element signature="e#6124#6307#0" expanded="true" />
-            <element signature="e#6296#6297#0" expanded="true" />
+            <element signature="e#2849#2881#0" expanded="true" />
+            <element signature="e#2909#2942#0" expanded="true" />
+            <element signature="e#3551#3575#0" expanded="true" />
+            <element signature="e#4847#4877#0" expanded="true" />
+            <element signature="e#5682#5719#0" expanded="true" />
+            <element signature="e#5773#5810#0" expanded="true" />
+            <element signature="e#6530#6713#0" expanded="true" />
+            <element signature="e#6702#6703#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1739,6 +1741,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.888889" vertical-offset="120" max-vertical-offset="960">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="43" />
+          <folding>
+            <element signature="e#229#264#0" expanded="true" />
+            <element signature="e#290#325#0" expanded="true" />
+            <element signature="e#349#382#0" expanded="true" />
+            <element signature="e#409#442#0" expanded="true" />
+            <element signature="e#883#907#0" expanded="true" />
+            <element signature="e#1000#1037#0" expanded="true" />
+            <element signature="e#1197#1220#0" expanded="true" />
+            <element signature="e#1303#1340#0" expanded="true" />
+            <element signature="e#1513#1537#0" expanded="true" />
+            <element signature="e#1630#1667#0" expanded="true" />
+            <element signature="e#1827#1850#0" expanded="true" />
+            <element signature="e#1933#1970#0" expanded="true" />
+            <element signature="e#2141#2169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-21/android/content/res/Resources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321234" vertical-offset="20067" max-vertical-offset="39105">
+          <caret line="1402" column="0" selection-start-line="1402" selection-start-column="0" selection-end-line="1402" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.84" vertical-offset="14" max-vertical-offset="615">
+          <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/service_urls.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_index_page.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Services/ServiceRequests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="720">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Models/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="1215">
@@ -1774,116 +1854,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Activities/IndexPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_index_page.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.888889" vertical-offset="120" max-vertical-offset="960">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="43" />
-          <folding>
-            <element signature="e#229#264#0" expanded="true" />
-            <element signature="e#290#325#0" expanded="true" />
-            <element signature="e#349#382#0" expanded="true" />
-            <element signature="e#409#442#0" expanded="true" />
-            <element signature="e#883#907#0" expanded="true" />
-            <element signature="e#1000#1037#0" expanded="true" />
-            <element signature="e#1197#1220#0" expanded="true" />
-            <element signature="e#1303#1340#0" expanded="true" />
-            <element signature="e#1513#1537#0" expanded="true" />
-            <element signature="e#1630#1667#0" expanded="true" />
-            <element signature="e#1827#1850#0" expanded="true" />
-            <element signature="e#1933#1970#0" expanded="true" />
-            <element signature="e#2141#2169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/service_urls.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-21/android/content/res/Resources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3321234" vertical-offset="20067" max-vertical-offset="39105">
-          <caret line="1402" column="0" selection-start-line="1402" selection-start-column="0" selection-end-line="1402" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.84" vertical-offset="14" max-vertical-offset="615">
-          <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Activities/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="777" max-vertical-offset="2625">
-          <caret line="105" column="45" selection-start-line="105" selection-start-column="45" selection-end-line="105" selection-end-column="45" />
-          <folding>
-            <element signature="e#1570#1607#0" expanded="true" />
-            <element signature="e#1688#1725#0" expanded="true" />
-            <element signature="e#2209#2587#0" expanded="true" />
-            <element signature="e#2576#2577#0" expanded="true" />
-            <element signature="e#2655#2687#0" expanded="true" />
-            <element signature="e#2715#2748#0" expanded="true" />
-            <element signature="e#3290#3314#0" expanded="true" />
-            <element signature="e#4315#4345#0" expanded="true" />
-            <element signature="e#4670#4694#0" expanded="true" />
-            <element signature="e#5276#5313#0" expanded="true" />
-            <element signature="e#5367#5404#0" expanded="true" />
-            <element signature="e#6124#6307#0" expanded="true" />
-            <element signature="e#6296#6297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Services/ServiceRequests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="720">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/singletons/UserData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92558986" vertical-offset="0" max-vertical-offset="1260">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1260">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
@@ -1906,6 +1888,28 @@
             <element signature="e#1513#1514#0" expanded="true" />
             <element signature="e#1561#1562#0" expanded="true" />
             <element signature="e#1597#1598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/bitpikteam/project/bitcamp/ba/bitpik/Activities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59165156" vertical-offset="739" max-vertical-offset="3315">
+          <caret line="71" column="50" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1570#1607#0" expanded="true" />
+            <element signature="e#1688#1725#0" expanded="true" />
+            <element signature="e#2209#2587#0" expanded="true" />
+            <element signature="e#2576#2577#0" expanded="true" />
+            <element signature="e#2849#2881#0" expanded="true" />
+            <element signature="e#2909#2942#0" expanded="true" />
+            <element signature="e#3551#3575#0" expanded="true" />
+            <element signature="e#4847#4877#0" expanded="true" />
+            <element signature="e#5682#5719#0" expanded="true" />
+            <element signature="e#5773#5810#0" expanded="true" />
+            <element signature="e#6530#6713#0" expanded="true" />
+            <element signature="e#6702#6703#0" expanded="true" />
           </folding>
         </state>
       </provider>

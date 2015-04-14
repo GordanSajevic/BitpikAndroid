@@ -78,6 +78,14 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
+    /**
+     * Request for web service to login;
+     * URL : /finduser;
+     * This is the json :
+     *  obj.put("username", mUsername);
+     *  obj.put("password", mPassword);
+     *
+     */
     private void loginUser() {
         String urlpart1 = getString(R.string.service_base);
         String urlpart2 = getString(R.string.service_login);
@@ -89,6 +97,10 @@ public class MainActivity extends ActionBarActivity {
         ServiceRequests.post(url, json, callback);
     }
 
+    /**
+     * Our Callback for login POST!
+     * @return
+     */
     private Callback loginVerification() {
         return new Callback() {
             @Override
@@ -101,10 +113,10 @@ public class MainActivity extends ActionBarActivity {
             public void onResponse(Response response) throws IOException {
                 //samo jednom se poziva jedan response -> tj. response.body().string();
                 String responseJson = response.body().string();
+                Log.e("SOMETHING", responseJson);
                 try {
                     // pretvara iz Stringa u JSON Object! (bar pokusava);
                     JSONObject user = new JSONObject(responseJson);
-                    Log.d("NESOT", responseJson);
                     int id = user.getInt("id");
                     if (id > 0) {
                         String username = user.getString("username");
@@ -113,20 +125,26 @@ public class MainActivity extends ActionBarActivity {
                         userData.setUsername(username);
                         // We call this method thus to save the User data into his SharedPreferences;
                         saveUserCredentials();
-                        makeToastFromAnotherThread(R.string.toast_try_again_catch);
+
                         // we call the method that redirects the now logged user to a new activity to the. new layout(page);
                         goToIndexPage();
                     }
 
                 } catch (JSONException e) {
                     e.printStackTrace();
-
-                    makeToastFromAnotherThread(R.string.toast_try_again);
+                    makeToastFromAnotherThread(R.string.toast_try_again_catch);
                 }
             }
         };
     }
 
+    /**
+     * Sets the username and password to our Singleton class
+     * UserData - where we save the User's logged in (User of the phone)
+     * his username and password;
+     * @param username
+     * @param password
+     */
     private void setUserData(String username, String password) {
         UserData userData = UserData.getInstance();
         userData.setUsername(username);
@@ -134,7 +152,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     /**
-     * This method is used when we want to save the username(email) and password to
+     * This method is used when we want to save the username and password to
      * the user's SharedPreferences;
      */
     private void saveUserCredentials() {
