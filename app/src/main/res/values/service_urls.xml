@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="service_base">http://10.0.82.24:9000</string>
+    <string name="service_base_ip">http://10.0.2.2:9000</string>
+    <string name="service_base_noport">http://10.0.82.24</string>
 
     <string name="service_allproducts">/</string>
     <string name="service_login">/finduser</string>

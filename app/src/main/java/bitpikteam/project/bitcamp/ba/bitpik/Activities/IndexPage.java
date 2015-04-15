@@ -52,7 +52,7 @@ public class IndexPage extends ActionBarActivity {
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
                 // s - is the String that has been entered by the user into the search EditText widget;
-                (  (ArrayAdapter<Product>) mProductList.getAdapter() ).getFilter().filter(s);
+                (  (ProductAdapter) mProductList.getAdapter() ).getFilter().filter(s);
             }
 
             @Override
