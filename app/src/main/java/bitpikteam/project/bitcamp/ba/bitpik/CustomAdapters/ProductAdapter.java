@@ -25,7 +25,7 @@ import bitpikteam.project.bitcamp.ba.bitpik.singletons.ProductFeed;
  */
 public class ProductAdapter extends ArrayAdapter<Product> {
 
-    private List<Product> items;
+    public static List<Product> items;
     private Filter mFilter;
 
     public ProductAdapter(Context context, List<Product> items) {

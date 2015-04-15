@@ -1,11 +1,14 @@
 package bitpikteam.project.bitcamp.ba.bitpik.Activities;
 
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
@@ -42,6 +45,20 @@ public class IndexPage extends ActionBarActivity {
   //      mProductList.setAdapter(listAdapter);
 
         // The search Engine is here!
+
+        mProductList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                Intent intent = new Intent(IndexPage.this, ShowProductActivity.class);
+                Product current = ProductAdapter.items.get(position);
+                intent.putExtra("id", current.getId());
+                intent.putExtra("name", current.getName());
+                intent.putExtra("description", current.getDescription());
+                intent.putExtra("price", String.valueOf(current.getPrice()));
+                intent.putExtra("productImagePath", current.getProductImagePath());
+                startActivity(intent);
+            }
+        });
 
         editTextPretraga.addTextChangedListener(new TextWatcher() {
             @Override
